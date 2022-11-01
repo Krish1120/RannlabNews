@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "376428115435",
+    "project_id": "rannlab-news-app-96151",
+    "storage_bucket": "rannlab-news-app-96151.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376428115435:android:b36790fca1e4d0d41855ae",
+        "android_client_info": {
+          "package_name": "com.rannlab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376428115435-0c7jmf8m22mddpp2qelnlaq7d1kkuboj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rannlab",
+            "certificate_hash": "20483622c19818be7fc3c0d2794cd4b5555f262b"
+          }
+        },
+        {
+          "client_id": "376428115435-p23b644bplnrseorjct71g0l1drrvbo7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rannlab",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "376428115435-ncaumataansjnl90v83en7cs0o8t3jcr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdOvHaFc3GiDXNzALW7WQEBmSeV1asUik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376428115435-ncaumataansjnl90v83en7cs0o8t3jcr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

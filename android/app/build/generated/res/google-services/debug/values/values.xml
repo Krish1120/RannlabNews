@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">376428115435-ncaumataansjnl90v83en7cs0o8t3jcr.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">376428115435</string>
+    <string name="google_api_key" translatable="false">AIzaSyBdOvHaFc3GiDXNzALW7WQEBmSeV1asUik</string>
+    <string name="google_app_id" translatable="false">1:376428115435:android:b36790fca1e4d0d41855ae</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBdOvHaFc3GiDXNzALW7WQEBmSeV1asUik</string>
+    <string name="google_storage_bucket" translatable="false">rannlab-news-app-96151.appspot.com</string>
+    <string name="project_id" translatable="false">rannlab-news-app-96151</string>
+</resources>

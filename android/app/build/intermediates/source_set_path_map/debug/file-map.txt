@@ -1,0 +1,45 @@
+com.rannlab.app-jetified-viewpager2-1.0.0-0 C:\Users\saikr\.gradle\caches\transforms-3\011255e5a4d8229e43ef677e72e8353c\transformed\jetified-viewpager2-1.0.0\res
+com.rannlab.app-core-1.7.0-1 C:\Users\saikr\.gradle\caches\transforms-3\16556f371cff18ace7d984a0f431a192\transformed\core-1.7.0\res
+com.rannlab.app-jetified-flipper-0.125.0-2 C:\Users\saikr\.gradle\caches\transforms-3\16b1593d2620d9516836defc7f3a46cc\transformed\jetified-flipper-0.125.0\res
+com.rannlab.app-browser-1.4.0-3 C:\Users\saikr\.gradle\caches\transforms-3\3149c5ab18889176a133a4023d5a780a\transformed\browser-1.4.0\res
+com.rannlab.app-jetified-core-ktx-1.5.0-4 C:\Users\saikr\.gradle\caches\transforms-3\3c9bd913ee2ca5163b5df0fcb26461bc\transformed\jetified-core-ktx-1.5.0\res
+com.rannlab.app-jetified-autofill-1.1.0-5 C:\Users\saikr\.gradle\caches\transforms-3\48318932dfeba54b5cc085026363f4cb\transformed\jetified-autofill-1.1.0\res
+com.rannlab.app-jetified-emoji2-1.0.0-6 C:\Users\saikr\.gradle\caches\transforms-3\5615bf6337d0c02eae314e57051beb10\transformed\jetified-emoji2-1.0.0\res
+com.rannlab.app-jetified-play-services-auth-20.3.0-7 C:\Users\saikr\.gradle\caches\transforms-3\6b3d72eaa7b23ab3e33e35b1d3346a1b\transformed\jetified-play-services-auth-20.3.0\res
+com.rannlab.app-transition-1.2.0-8 C:\Users\saikr\.gradle\caches\transforms-3\6ceec9fbfc0e8993cf4d7ae6ffb42fa0\transformed\transition-1.2.0\res
+com.rannlab.app-lifecycle-viewmodel-2.3.1-9 C:\Users\saikr\.gradle\caches\transforms-3\742de7a9fc7882dbbbd7505413b1e0c0\transformed\lifecycle-viewmodel-2.3.1\res
+com.rannlab.app-lifecycle-runtime-2.4.0-10 C:\Users\saikr\.gradle\caches\transforms-3\8025d5d3f7b2686ee6924db4f10fd0d8\transformed\lifecycle-runtime-2.4.0\res
+com.rannlab.app-jetified-annotation-experimental-1.1.0-11 C:\Users\saikr\.gradle\caches\transforms-3\825f7b67ba60eff2ead1eaf4f60fadae\transformed\jetified-annotation-experimental-1.1.0\res
+com.rannlab.app-jetified-lifecycle-process-2.4.0-12 C:\Users\saikr\.gradle\caches\transforms-3\8318f85b35ff993300ea5e27635f7c00\transformed\jetified-lifecycle-process-2.4.0\res
+com.rannlab.app-recyclerview-1.1.0-13 C:\Users\saikr\.gradle\caches\transforms-3\8bd25d89700c1c6b8efd9abf5047a467\transformed\recyclerview-1.1.0\res
+com.rannlab.app-appcompat-1.4.1-14 C:\Users\saikr\.gradle\caches\transforms-3\935e84800c6c48be286bbc38c13a81ce\transformed\appcompat-1.4.1\res
+com.rannlab.app-jetified-react-native-0.70.4-debug-15 C:\Users\saikr\.gradle\caches\transforms-3\a7943a972b168492c2fc74eba5f40e1e\transformed\jetified-react-native-0.70.4-debug\res
+com.rannlab.app-jetified-emoji2-views-helper-1.0.0-16 C:\Users\saikr\.gradle\caches\transforms-3\aca578fd6b81913ab92f6ba0b2489f94\transformed\jetified-emoji2-views-helper-1.0.0\res
+com.rannlab.app-jetified-startup-runtime-1.0.0-17 C:\Users\saikr\.gradle\caches\transforms-3\bb62307fc670daadbb46f361bc47d7c5\transformed\jetified-startup-runtime-1.0.0\res
+com.rannlab.app-jetified-appcompat-resources-1.4.1-18 C:\Users\saikr\.gradle\caches\transforms-3\c10bc0cfa35a27de0446a25f20e17dcb\transformed\jetified-appcompat-resources-1.4.1\res
+com.rannlab.app-jetified-firebase-common-20.2.0-19 C:\Users\saikr\.gradle\caches\transforms-3\c842965c238e2221e9e50ea4246820ac\transformed\jetified-firebase-common-20.2.0\res
+com.rannlab.app-coordinatorlayout-1.1.0-20 C:\Users\saikr\.gradle\caches\transforms-3\cf92affde58ea1a76ca693b28b042282\transformed\coordinatorlayout-1.1.0\res
+com.rannlab.app-material-1.1.0-21 C:\Users\saikr\.gradle\caches\transforms-3\e01e9b18f4bcee00bb4351e827ea1080\transformed\material-1.1.0\res
+com.rannlab.app-jetified-drawee-2.6.0-22 C:\Users\saikr\.gradle\caches\transforms-3\e80dc54fb1da525e23b673a5a439fcfb\transformed\jetified-drawee-2.6.0\res
+com.rannlab.app-jetified-savedstate-1.1.0-23 C:\Users\saikr\.gradle\caches\transforms-3\eae9b5daed056c277c91009c400f0d2e\transformed\jetified-savedstate-1.1.0\res
+com.rannlab.app-jetified-play-services-basement-18.1.0-24 C:\Users\saikr\.gradle\caches\transforms-3\f016c7f5b916754a00734614e68b6d79\transformed\jetified-play-services-basement-18.1.0\res
+com.rannlab.app-jetified-play-services-base-18.0.1-25 C:\Users\saikr\.gradle\caches\transforms-3\f02ec650637fd3cf6095e46f541b0dae\transformed\jetified-play-services-base-18.0.1\res
+com.rannlab.app-cardview-1.0.0-26 C:\Users\saikr\.gradle\caches\transforms-3\f262fe44da612f34418731ad5b7f07eb\transformed\cardview-1.0.0\res
+com.rannlab.app-fragment-1.3.6-27 C:\Users\saikr\.gradle\caches\transforms-3\f792687d4c5c1b1c9d36fc21635c9ff4\transformed\fragment-1.3.6\res
+com.rannlab.app-google-services-28 D:\Work Projects\Rannlab\android\app\build\generated\res\google-services\debug
+com.rannlab.app-pngs-29 D:\Work Projects\Rannlab\android\app\build\generated\res\pngs\debug
+com.rannlab.app-react-30 D:\Work Projects\Rannlab\android\app\build\generated\res\react\debug
+com.rannlab.app-resValues-31 D:\Work Projects\Rannlab\android\app\build\generated\res\resValues\debug
+com.rannlab.app-rs-32 D:\Work Projects\Rannlab\android\app\build\generated\res\rs\debug
+com.rannlab.app-mergeDebugResources-33 D:\Work Projects\Rannlab\android\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.rannlab.app-mergeDebugResources-34 D:\Work Projects\Rannlab\android\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.rannlab.app-merged_res-35 D:\Work Projects\Rannlab\android\app\build\intermediates\merged_res\debug
+com.rannlab.app-debug-36 D:\Work Projects\Rannlab\android\app\src\debug\res
+com.rannlab.app-main-37 D:\Work Projects\Rannlab\android\app\src\main\res
+com.rannlab.app-packaged_res-38 D:\Work Projects\Rannlab\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\packaged_res\debug
+com.rannlab.app-packaged_res-39 D:\Work Projects\Rannlab\node_modules\@react-native-firebase\app\android\build\intermediates\packaged_res\debug
+com.rannlab.app-packaged_res-40 D:\Work Projects\Rannlab\node_modules\@react-native-firebase\auth\android\build\intermediates\packaged_res\debug
+com.rannlab.app-packaged_res-41 D:\Work Projects\Rannlab\node_modules\@react-native-google-signin\google-signin\android\build\intermediates\packaged_res\debug
+com.rannlab.app-packaged_res-42 D:\Work Projects\Rannlab\node_modules\react-native-safe-area-context\android\build\intermediates\packaged_res\debug
+com.rannlab.app-packaged_res-43 D:\Work Projects\Rannlab\node_modules\react-native-screens\android\build\intermediates\packaged_res\debug
+com.rannlab.app-packaged_res-44 D:\Work Projects\Rannlab\node_modules\react-native-splash-screen\android\build\intermediates\packaged_res\debug
